@@ -1,9 +1,0 @@
-{
-    "index": "syn9879586", 
-    "TUMOR_FASTQ_2": "TODO", 
-    "TUMOR_FASTQ_1": "TODO", 
-    "REFERENCE_GENOME": "syn5923671", 
-    "paralog": "syn9879577", 
-    "annotation": "syn9879578", 
-    "REFERENCE_GTF": "syn5923670"
-}
